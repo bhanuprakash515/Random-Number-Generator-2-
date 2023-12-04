@@ -1,0 +1,38 @@
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.heading {
+  color: #0b69ff;
+  padding: 20px;
+  font-family: 'roboto';
+}
+.para {
+  color: #333333;
+  font-size: 23px;
+  padding: 20px;
+}
+
+.button {
+  color: #eaebed;
+  font-size: 16px;
+  background-color: #0b69ff;
+  height: 45px;
+  width: 125px;
+  font-family: 'Roboto';
+  border: 0px;
+  border-radius: 10px;
+}
